@@ -1,2 +1,2 @@
-# React-Auth
-Simple React Authentication service with NextJs
+# Leitner Front
+Leitner System with React and NextJs
